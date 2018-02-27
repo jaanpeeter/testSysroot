@@ -1,4 +1,4 @@
-# Unencripted confidential files
-Sysroot/decrypted/
+# Ignore confidential product files
+**/Product/
 
 
